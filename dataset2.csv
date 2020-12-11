@@ -1,0 +1,16 @@
+﻿Case ID,Name,Social Security No.,Age,Sex,Status,Income,GPA,Class
+1,John,123321,22,Male,Student,3000,3.22,Invite
+2,Mary,343422,38,Female,Employee,32000,2.00,Invite
+3,Ali,876345,46,Male,Employee,69000,2.90,Invite
+4,Lee,673245,23,Male,Student,3500,3.10,Invite
+5,Ted,451087,45,Male,Unemployed,5000,3.10,Don't
+6,Nick,239847,19,Male,Student,1300,3.80,Don't
+7,Liz,229951,23,Female,Student,12000,2.80,Don't
+8,Debby,234819,33,Female,Unemployed,5000,0.00,Don't
+9,Pat,258199,32,Male,Student,1000,2.10,Don't
+10,Peter,813672,20,Male,Student,32000,3.90,Don't
+11,Dona,501184,23,Female,Student,6600,3.30,Invite
+12,Jim,619458,40,Male,Unemployed,35000,3.30,Don't
+13,Kim,654397,31,Female,Unemployed,14000,3.00,Don't
+14,Pan,350932,59,Male,Employee,29000,2.80,Don't
+15,Mike,357922,33,Male,Employee,19000,2.60,Don't
